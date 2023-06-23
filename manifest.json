@@ -9,10 +9,11 @@
     {
       "src": "https://ivanrgweb.blogspot.com/favicon.ico",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
-      "src": "https://ivanrgweb.blogspot.com/favicon.ico",
+      "src": "ruta_al_icono/icono.png",
       "sizes": "512x512",
       "type": "image/png"
     }
